@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624443892 source:c:\users\sadim\desktop\compiler program\sentencegrammaticallycheck\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

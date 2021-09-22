@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627843374 source:c:\users\sadim\desktop\graphics program\niloycom\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
